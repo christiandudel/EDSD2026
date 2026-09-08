@@ -84,6 +84,36 @@
   log(
     2)
 
+  
+### Assignment operator ########################################################
+  
+  x <- 5
+  x
+  y <- 13 # Hotkeys "ALT" + "-" for "<-" 
+  y
+  x+y # Does not change x or y
+  x
+  z <- x+y
+  z
+  sqrt(y)
+  x==5
+  x==3
+  x>y
+  
+  x+x
+  somewhatlongname <- 5
+  x.1_12 <- 3  
+  
+  a<-1
+  a< -1
+  
+  text <- "Hello world!"
+  text 
+  
+  x # Should still be 5
+  x <- 1 # x gets replaced without warning
+  x
+  
 
 ### R-Studio ###################################################################
 
