@@ -4,9 +4,10 @@
 
 This repository contains materials for the computer programming course of the EDSD cohort 2026/27. There are three folders:
 
-* "R Code": R code for each session.
-* "Slides": Slides of the first session.
-* "Exercises": Voluntary exercises plus solutions.  
+* "R Code": R code for each session
+* "Slides": Slides of the first session
+* "Exercises": Voluntary exercises plus solutions
+* "Assignment": Assignment plus solutions (after the deadline)
 
 ## Software
 
